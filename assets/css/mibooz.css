@@ -10087,7 +10087,7 @@ background: #f3f3f3;
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(1, 29, 43, 0.7);
+    /* background-color: rgba(1, 29, 43, 0.7); */
 z-index: 99;
 }
 
@@ -10112,7 +10112,7 @@ z-index: 99;
 }
 
 .main-desc {
-    color: rgba(255, 255, 255, 0.5);
+    color: #cbc7c7;
     font-size: 23px;
     margin-bottom: 35px;
     line-height: 30px;
